@@ -1,5 +1,10 @@
 description = 'scriptsbots-java'
 
 dependencies {
+    compile 'org.lwjgl:lwjgl:3.0.0b'
+    compile 'org.lwjgl:lwjgl-platform:3.0.0b:natives-windows'
+    compile 'org.lwjgl:lwjgl-platform:3.0.0b:natives-linux'
+    compile 'org.lwjgl:lwjgl-platform:3.0.0b:natives-osx'
+    
     testCompile group: 'junit', name: 'junit', version: '4.11'
 }
