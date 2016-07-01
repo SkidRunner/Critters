@@ -1,0 +1,29 @@
+allprojects() {
+    group = 'me.skidrunner'
+    version = '1.0-SNAPSHOT'
+}
+
+subprojects() {
+    apply plugin: 'java'
+
+    repositories() {
+        mavenCentral()
+    }
+
+    compileJava.options.encoding = 'UTF-8'
+    javadoc.options.encoding = 'UTF-8'
+    sourceCompatibility = 1.7
+    targetCompatibility = 1.7
+
+    task javadocJar(type: Jar) {
+        classifier = 'javadoc'
+        from javadoc
+    }
+
+    task packageSources(type: Jar) {
+        classifier = 'sources'
+        from sourceSets.main.allSource
+    }
+
+    artifacts.archives packageSources, javadocJar
+}

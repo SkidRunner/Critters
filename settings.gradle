@@ -1,0 +1,4 @@
+rootProject.name = 'scriptsbots-parent'
+include ':scriptsbots-core'
+include ':scriptsbots-javafx'
+include ':scriptsbots-samples'
