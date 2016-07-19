@@ -1,29 +1,81 @@
-scriptsbots-java
-=============
+# Script Bots
 
 ScriptBots is an Open Source Evolutionary Artificial Life Simulation of Predator-Prey dynamics.
 
-This project represents a port of the origional source written by Andrej Karpathy.
+## Getting Started
 
-Project Home: https://sites.google.com/site/scriptbotsevo/home
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-To compile scriptbots you will need:
-* CMake >= 2.8 (http://www.cmake.org/cmake/resources/software.html)
-* OpenGL and GLUT (http://www.opengl.org/resources/libraries/glut/)
-* * Linux: freeglut (http://freeglut.sourceforge.net/) 
+### Prerequisities
 
-To build ScriptBots on Linux:
-$ cd path/to/source
-$ mkdir build
-$ cd build
-$ cmake ../ # this is the equiv of ./configure
-$ make
+What things you need to install the software and how to install them
 
-To execute ScriptBots simply type the following in the build directory:
-$ ./scriptbots
+```
+Give examples
+```
 
+### Installing
 
-For windows: 
-Follow basically the same steps, but after running cmake open up the VS solution (.sln) file it generates and compile the project from VS.
+A step by step series of examples that tell you have to get a development env running
 
-See README.txt for controls and a message from Andrej
+Stay what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* Gradle
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+## Authors
+
+* **Andrej Karpathy** - *Initial work* - [Blog](http://karpathy.github.io/)
+
+See also the list of [contributors](https://github.com/SkidRunner/scriptbots/graphs/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
