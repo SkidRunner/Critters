@@ -32,6 +32,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 * _Andrej Karpathy_ - _Initial work_ - [Blog](http://karpathy.github.io/) | [Twitter](http://twitter.com/karpathy)
 * _Mark Picknell_ - _Java Port_ - [Blog](http://skidrunner.blogspot.com/) | [Twitter](http://twitter.com/skidrunner)
+* _Casey Link_
 
 See also the list of [contributors](https://github.com/SkidRunner/scriptbots/graphs/contributors) who participated in this project.
 
