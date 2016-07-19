@@ -28,7 +28,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Contributors
 
-* **Andrej Karpathy** - *Initial work* - [Blog](http://karpathy.github.io/)
+* **Andrej Karpathy** - *Initial work* - [Blog](http://karpathy.github.io/) | [twitter](http://twitter.com/karpathy)
 
 See also the list of [contributors](https://github.com/SkidRunner/scriptbots/graphs/contributors) who participated in this project.
 
