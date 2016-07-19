@@ -2,71 +2,31 @@
 
 ScriptBots is an Open Source Evolutionary Artificial Life Simulation of Predator-Prey dynamics.
 
-## Getting Started
+## Code Example
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisities
 
-What things you need to install the software and how to install them
+## Motivation
 
-```
-Give examples
-```
+I love learning about [Artificial Neural Networks](https://www.wikipedia.org/wiki/Artificial_neural_network) and [Genetic Algorithms](https://www.wikipedia.org/wiki/Genetic_algorithm), creating an artificially intelligent robot has always been one of my Childhood Geek dreams. I stumbled on some interesting YouTube videos a while back that really sparked my interest. Since then I have decided to start working on ScriptBots witch already has a small contributor base.
 
-### Installing
+### YouTube
+* [Evolution of simple organisms with neural networks](https://www.youtube.com/watch?v=2kupe2ZKK58)
+* [Simulating evolution using social bots with multilayer perceptron](https://www.youtube.com/watch?v=GvEywP8t12I)
+* [Polyworld: Using Evolution to Design Artificial Intelligence](https://www.youtube.com/watch?v=_m97_kL4ox0)
+* [Bug Brain -- Artificial Intelligence / Neural Net](https://www.youtube.com/watch?v=g0ZnrzTfFIQ)
 
-A step by step series of examples that tell you have to get a development env running
+## Installation
 
-Stay what the step will be
+## API Reference
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* Gradle
+## Tests
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-## Authors
+## Contributors
 
 * **Andrej Karpathy** - *Initial work* - [Blog](http://karpathy.github.io/)
 
@@ -74,8 +34,8 @@ See also the list of [contributors](https://github.com/SkidRunner/scriptbots/gra
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+[![GPL3](http://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl.html)
 
-## Acknowledgments
+**Script Bots** Copyright (C) 2016 SkidRunner
 
-* Hat tip to anyone who's code was used
+This program comes with **ABSOLUTELY NO WARRANTY**. This is free software, and you are welcome to redistribute it under certain conditions.
