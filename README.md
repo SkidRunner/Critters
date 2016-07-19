@@ -8,7 +8,9 @@ ScriptBots is an Open Source Evolutionary Artificial Life Simulation of Predator
 
 ## Motivation
 
-I love learning about [Artificial Neural Networks](https://www.wikipedia.org/wiki/Artificial_neural_network) and [Genetic Algorithms](https://www.wikipedia.org/wiki/Genetic_algorithm), creating an artificially intelligent robot has always been one of my Childhood Geek dreams. I stumbled on some interesting YouTube videos a while back that really sparked my interest. Since then I have decided to start working on ScriptBots witch already has a small contributor base.
+> _**Mark Picknell**_ - _SkidRunner_
+
+> I love learning about [Artificial Neural Networks](https://www.wikipedia.org/wiki/Artificial_neural_network), and [Genetic Algorithms](https://www.wikipedia.org/wiki/Genetic_algorithm). Creating an artificially intelligent robot has always been one of my Childhood Geek dreams. I stumbled on some interesting YouTube videos a while back that really sparked my interest. Since then I have decided to start working on ScriptBots witch already has a small contributor base.
 
 ### YouTube
 * [Evolution of simple organisms with neural networks](https://www.youtube.com/watch?v=2kupe2ZKK58)
@@ -28,7 +30,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Contributors
 
-* **Andrej Karpathy** - *Initial work* - [Blog](http://karpathy.github.io/) | [Twitter](http://twitter.com/karpathy)
+* _Andrej Karpathy_ - _Initial work_ - [Blog](http://karpathy.github.io/) | [Twitter](http://twitter.com/karpathy)
+* _Mark Picknell_ - _Java Port_ - [Blog](http://skidrunner.blogspot.com/) | [Twitter](http://twitter.com/skidrunner)
 
 See also the list of [contributors](https://github.com/SkidRunner/scriptbots/graphs/contributors) who participated in this project.
 
@@ -36,6 +39,6 @@ See also the list of [contributors](https://github.com/SkidRunner/scriptbots/gra
 
 [![GPL3](http://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl.html)
 
-**Script Bots** Copyright (C) 2016 SkidRunner
+**Script Bots** Copyright (C) 2016 Mark Picknell
 
 This program comes with **ABSOLUTELY NO WARRANTY**. This is free software, and you are welcome to redistribute it under certain conditions.
