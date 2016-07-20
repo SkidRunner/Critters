@@ -39,6 +39,7 @@ See also the list of [contributors](https://github.com/SkidRunner/scriptbots/gra
 ## License
 
 [![GPL3](http://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl.html)
+[LICENSE.md](LICENSE.md)
 
 **Script Bots** Copyright (C) 2016 Mark Picknell
 
