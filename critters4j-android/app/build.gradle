@@ -1,0 +1,50 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "me.skidrunner.critters"
+        minSdkVersion 16
+        targetSdkVersion 23
+        versionCode 1
+        versionName 1.0
+    }
+	
+	signingConfigs {
+        release {
+            try {
+                // Define KEYSTORE_PASSWORD and KEY_PASSWORD in gradle.properties
+                // (Only where you do release builds; do NOT commit those into version control.)
+                storeFile file("critters.keystore")
+                storePassword KEYSTORE_PASSWORD
+                keyAlias "critters"
+                keyPassword KEY_PASSWORD
+            }
+            catch (ex) {
+                logger.warning('NB: For release builds, you must define KEYSTORE_PASSWORD and KEY_PASSWORD in gradle.properties.')
+            }
+        }
+    }
+	
+    buildTypes {
+        debug {
+            minifyEnabled false
+            applicationIdSuffix '.debug'
+            versionNameSuffix '-DEBUG'
+        }
+        release {
+            signingConfig signingConfigs.release
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+	compile 'com.android.support:appcompat-v7:+'
+	compile 'com.android.support:support-v4:+'
+	
+	compile fileTree(dir: 'libs', include: ['*.jar'])
+}
