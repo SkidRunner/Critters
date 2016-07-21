@@ -1,4 +1,4 @@
-#GNU GENERAL PUBLIC LICENSE
+#[GNU GENERAL PUBLIC LICENSE](http://www.gnu.org/licenses/gpl-3.0.txt)
 
 Version 3, 29 June 2007
 
@@ -8,9 +8,9 @@ Everyone is permitted to copy and distribute verbatim copies of this license doc
 
 ##Preamble
 
-The GNU General Public License is a free, copyleft license for software and other kinds of works.
+The [GNU General Public License](http://www.gnu.org/licenses/gpl-3.0.txt) is a free, copyleft license for software and other kinds of works.
 
-The licenses for most software and other practical works are designed to take away your freedom to share and change the works.  By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.  We, the Free Software Foundation, use the GNU General Public License for most of our software; it applies also to any other work released this way by its authors.  You can apply it to your programs, too.
+The licenses for most software and other practical works are designed to take away your freedom to share and change the works.  By contrast, the [GNU General Public License](http://www.gnu.org/licenses/gpl-3.0.txt) is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.  We, the Free Software Foundation, use the [GNU General Public License](http://www.gnu.org/licenses/gpl-3.0.txt) for most of our software; it applies also to any other work released this way by its authors.  You can apply it to your programs, too.
 
 When we speak of free software, we are referring to freedom, not price.  Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for them if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs, and that you know you can do these things.
 
@@ -32,7 +32,7 @@ The precise terms and conditions for copying, distribution and modification foll
 
 ###Definitions.
 
-  *"This License"* refers to version 3 of the GNU General Public License.
+  *"This License"* refers to version 3 of the [GNU General Public License](http://www.gnu.org/licenses/gpl-3.0.txt).
   
   *"Copyright"* also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.
   
@@ -186,11 +186,11 @@ The precise terms and conditions for copying, distribution and modification foll
 
 14. Revised Versions of this License.
 
-  The Free Software Foundation may publish revised and/or new versions of the GNU General Public License from time to time.  Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
+  The Free Software Foundation may publish revised and/or new versions of the [GNU General Public License](http://www.gnu.org/licenses/gpl-3.0.txt) from time to time.  Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
   
-  Each version is given a distinguishing version number.  If the Program specifies that a certain numbered version of the GNU General Public License "or any later version" applies to it, you have the option of following the terms and conditions either of that numbered version or of any later version published by the Free Software Foundation.  If the Program does not specify a version number of the GNU General Public License, you may choose any version ever published by the Free Software Foundation.
+  Each version is given a distinguishing version number.  If the Program specifies that a certain numbered version of the [GNU General Public License](http://www.gnu.org/licenses/gpl-3.0.txt) "or any later version" applies to it, you have the option of following the terms and conditions either of that numbered version or of any later version published by the Free Software Foundation.  If the Program does not specify a version number of the [GNU General Public License](http://www.gnu.org/licenses/gpl-3.0.txt), you may choose any version ever published by the Free Software Foundation.
   
-  If the Program specifies that a proxy can decide which future versions of the GNU General Public License can be used, that proxy's public statement of acceptance of a version permanently authorizes you to choose that version for the Program.
+  If the Program specifies that a proxy can decide which future versions of the [GNU General Public License](http://www.gnu.org/licenses/gpl-3.0.txt) can be used, that proxy's public statement of acceptance of a version permanently authorizes you to choose that version for the Program.
   
   Later license versions may give you additional or different permissions.  However, no additional obligations are imposed on any author or copyright holder as a result of your choosing to follow a later version.
 
