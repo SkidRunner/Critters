@@ -1,2 +1,3 @@
 rootProject.name = 'Critters4J'
-include ':Critters4J-core'
+include ':critters4j-core'
+include ':critters4j-data'
