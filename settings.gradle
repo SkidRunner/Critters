@@ -1,3 +1,5 @@
 rootProject.name = 'Critters4J'
+include ':critters4j-android'
 include ':critters4j-core'
 include ':critters4j-data'
+include ':critters4j-javafx'
