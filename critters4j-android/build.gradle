@@ -1,16 +1,13 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
+description = 'Critters4J-Android'
 
 buildscript {
-    repositories {
-		jcenter()
-    }
-    dependencies {
-        classpath 'com.android.tools.build:gradle:1.+'
+	dependencies {
+		classpath 'com.android.tools.build:gradle:1.+'
 	}
 }
 
 allprojects {
-    repositories {
+	repositories {
 		jcenter()
-    }
+	}
 }
