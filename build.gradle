@@ -4,13 +4,9 @@ allprojects() {
 }
 
 subprojects() {
-    apply plugin: 'java'
-
     repositories() {
         jcenter()
     }
-
-    sourceCompatibility = 1.7
 
     dependencies {
         testCompile group: 'junit', name: 'junit', version: '4.11'
