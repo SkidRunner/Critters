@@ -1,6 +1,6 @@
 # Critters4J
 
-Critters4J is an Open Source Evolutionary Artificial Life Simulation of Predator-Prey dynamics.
+Open Source Evolutionary Artificial Life Simulation.
 
 ## Code Example
 
