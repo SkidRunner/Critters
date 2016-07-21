@@ -30,9 +30,9 @@ The precise terms and conditions for copying, distribution and modification foll
 
 ##TERMS AND CONDITIONS
 
-0&#46; Definitions.
+###Definitions.
 
-&nbsp;&nbsp;*"This License"* refers to version 3 of the GNU General Public License.
+  *"This License"* refers to version 3 of the GNU General Public License.
   
   *"Copyright"* also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.
   
