@@ -2,7 +2,7 @@
 
 Version 3, 29 June 2007
 
-Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+Copyright (C) 2007 [Free Software Foundation, Inc](http://fsf.org/).
 
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
@@ -30,9 +30,9 @@ The precise terms and conditions for copying, distribution and modification foll
 
 ##TERMS AND CONDITIONS
 
-0. Definitions.
+0&#46; Definitions.
 
-  *"This License"* refers to version 3 of the GNU General Public License.
+&nbsp;&nbsp;*"This License"* refers to version 3 of the GNU General Public License.
   
   *"Copyright"* also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.
   
