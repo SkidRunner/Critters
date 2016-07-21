@@ -1,6 +1,6 @@
-# Script Bots
+# Critters4J
 
-ScriptBots is an Open Source Evolutionary Artificial Life Simulation of Predator-Prey dynamics.
+Critters4J is an Open Source Evolutionary Artificial Life Simulation of Predator-Prey dynamics.
 
 ## Code Example
 
@@ -40,6 +40,6 @@ See also the list of [contributors](https://github.com/SkidRunner/scriptbots/gra
 
 [![GPL3](http://www.gnu.org/graphics/gplv3-127x51.png)](LICENSE.md)
 
-**Script Bots** Copyright (C) 2016 Mark Picknell
+**Critters4J** Copyright (C) 2016 Mark Picknell
 
 This program comes with **ABSOLUTELY NO WARRANTY**. This is free software, and you are welcome to redistribute it under certain conditions.
