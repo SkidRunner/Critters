@@ -1,7 +1,0 @@
-description = 'scriptsbots-javafx'
-
-dependencies {
-	compile project(':scriptsbots-core')
-	
-    testCompile group: 'junit', name: 'junit', version: '4.11'
-}
