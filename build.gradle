@@ -10,20 +10,9 @@ subprojects() {
         jcenter()
     }
 
-    compileJava.options.encoding = 'UTF-8'
-    javadoc.options.encoding = 'UTF-8'
     sourceCompatibility = 1.7
-    targetCompatibility = 1.7
 
-    task javadocJar(type: Jar) {
-        classifier = 'javadoc'
-        from javadoc
+    dependencies {
+        testCompile group: 'junit', name: 'junit', version: '4.11'
     }
-
-    task packageSources(type: Jar) {
-        classifier = 'sources'
-        from sourceSets.main.allSource
-    }
-
-    artifacts.archives packageSources, javadocJar
 }
