@@ -1,13 +1,11 @@
 description = 'Critters4J-JavaFX'
 
-buildscript {
-  repositories {
-    jcenter()
-  }
-}
+apply plugin : 'java'
 
-allprojects {
-  repositories {
-    jcenter()
-  }
+sourceCompatibility = '1.7'
+targetCompatibility = '1.8'
+
+dependencies {
+	compile project(':critters4j-core')
+	compile project(':critters4j-data')
 }

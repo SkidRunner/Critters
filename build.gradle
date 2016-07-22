@@ -1,14 +1,23 @@
+apply plugin: 'base'
+
 allprojects() {
     group = 'me.skidrunner'
     version = '1.0-SNAPSHOT'
 }
 
-subprojects() {
-    repositories() {
-        jcenter()
-    }
+buildscript {
+	repositories {
+		jcenter()
+	}
+	dependencies {
+		classpath 'com.android.tools.build:gradle:1.+'
+	}
+}
 
-    dependencies {
-        testCompile group: 'junit', name: 'junit', version: '4.11'
-    }
+subprojects {
+	if(!project.name.equals('critters4j-android')) {
+		apply from: rootProject.file('common.gradle')
+	} else {
+		apply from: rootProject.file('common-android-app.gradle')
+	}
 }

@@ -1,4 +1,4 @@
-rootProject.name = 'Critters4J'
+rootProject.name = 'critters4j'
 include ':critters4j-android'
 include ':critters4j-core'
 include ':critters4j-data'

@@ -2,5 +2,6 @@
 <resources>
 
     <string name="app_name">Critters</string>
-
+	<string name="hello_world">Hello Critters</string>
+	
 </resources>

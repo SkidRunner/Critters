@@ -1,1 +1,10 @@
 description = 'critters4j-core'
+
+apply plugin : 'java'
+
+sourceCompatibility = '1.6'
+targetCompatibility = '1.7'
+
+dependencies {
+	compile project(':critters4j-data')
+}
