@@ -229,7 +229,7 @@ public class NeuralNetwork implements  java.io.Serializable {
                     activity = process(neuron.connections[index], inputs, activity);
                 }
                 activity = process(neuron, activity);
-                return MathF.clamp(0F, 1F, activity);
+                return Math.max(0F, Math.min(1F, activity));
             }
 
             abstract float process(Connection connection, float[] inputs, float activity);
